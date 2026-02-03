@@ -1,6 +1,6 @@
 <h1 align="center"> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
-**https://in.pinterest.com/pin/explosion-gif-high-energy-gases-animation--581738476905670621/**
+![Image](https://github.com/user-attachments/assets/423c52c3-0c0d-4612-ae8b-1c56729dd5fb)
 <h1 align="center"> hobbies </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f5b5601e-3991-4980-9ec9-3bbfe526dbbf" />
