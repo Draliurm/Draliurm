@@ -1,7 +1,7 @@
 <h1 align="center"> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
-<img width="40" alt="image" src="![Image](https://github.com/user-attachments/assets/6a5dbbbf-28bc-4fa5-b0bc-aea15ca12aca)" />
+<img width="40" alt="gift" src="![Image](https://github.com/user-attachments/assets/6a5dbbbf-28bc-4fa5-b0bc-aea15ca12aca)" />
 
 <h1 align="center"> <img width="70" height="70" src="(https://github.com/user-attachments/assets/6a5dbbbf-28bc-4fa5-b0bc-aea15ca12aca)" /> </h1>
 
