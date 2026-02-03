@@ -3,6 +3,15 @@
 
 <h align="center"> Hello, my name is Draliurm. I am a senior in high school. I enjoy programming and video games, and I have big goals and objectives. </h>
 
+# About Me :
+
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
 <h1 align="center"> hobbies and Applications I know </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f5b5601e-3991-4980-9ec9-3bbfe526dbbf" />
