@@ -15,7 +15,8 @@
 
 <h1 align="center"> Social Media </h1>
 
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/4439b24b-e81d-4142-9857-74f8798ed2eb" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/2c517af0-c324-4005-9b69-42ea23a2f02d" />
+
 
 
 <h1 align="center"> hobbies and Applications I know </h1>
