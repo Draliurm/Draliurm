@@ -7,6 +7,10 @@
   
 </center>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/facf9172-feb4-432d-8d09-58d3ebbe9c56" alt="Crab Dancing GIF">
+</p>
+
 # About Me :
 
 - 🎓 Currently studying in the third year of high school 🎓
