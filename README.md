@@ -1,7 +1,7 @@
 <h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello i'm Draliurm <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
-<h1 align="center"> ![Crab Dancing GIF](https://github.com/user-attachments/assets/facf9172-feb4-432d-8d09-58d3ebbe9c56) </h1>
+<h1 align="center">![Crab Dancing GIF](https://github.com/user-attachments/assets/facf9172-feb4-432d-8d09-58d3ebbe9c56)</h1>
 
 # About Me :
 
