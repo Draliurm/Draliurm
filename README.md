@@ -17,5 +17,6 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d23f6c-7b60-4d76-908e-377bd45735e0" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/800f78ec-25a7-4153-8eeb-5b594bcbdb13" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/099e7124-2c23-42f5-b4c4-787e582cc293" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/405b9e61-b387-4d23-974e-3bd3a63614a1" />
 
-<img src="https://in.pinterest.com/pin/explosion-gif-high-energy-gases-animation--581738476905670621/.gif" width="35">
+
