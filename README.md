@@ -16,7 +16,7 @@
 <h1 align="center"> Social Media </h1>
 
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/2c517af0-c324-4005-9b69-42ea23a2f02d" />
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/b0dac198-c972-4b56-ae2c-755a01ffd1db" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/dfcf45ff-cae5-499e-ac7f-2b3946a8b974" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/099e7124-2c23-42f5-b4c4-787e582cc293" />
 
 
