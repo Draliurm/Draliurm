@@ -13,6 +13,11 @@
 - 🎮 I like video games.
 - 🧭 I like to travel
 
+<h1 align="center"> Social Media </h1>
+
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/4439b24b-e81d-4142-9857-74f8798ed2eb" />
+
+
 <h1 align="center"> hobbies and Applications I know </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f5b5601e-3991-4980-9ec9-3bbfe526dbbf" />
