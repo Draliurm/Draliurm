@@ -6,8 +6,6 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/099e7124-2c23-42f5-b4c4-787e582cc293" />
 
 
-<h1 align="center"> <img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/e3ec55f5-4648-48ff-b68b-5ad672f7b61e" />
-Hello Guys! We Are OSSInsight! <img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/fad7acea-62e5-43a6-9bdc-a126a3e988f9" />
-</h1>
+<h1 align="center"> < Hello Guys! We Are OSSInsight! /> </h1>
 
 
