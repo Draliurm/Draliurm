@@ -1,16 +1,14 @@
-<h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
+<h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello i'm Draliurm <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
-<h align="center"> Hello, my name is Draliurm. I am a senior in high school. I enjoy programming and video games, and I have big goals and objectives. </h>
 
 # About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🎓 Currently studying in the third year of high school 🎓
+- 🌎 I live in Ecuador.
+- 🌵 I am 17 years old.
+- 🎮 I like video games.
+- 🧭 I like to travel
 
 <h1 align="center"> hobbies and Applications I know </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
