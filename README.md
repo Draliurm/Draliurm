@@ -1,7 +1,7 @@
 <h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello i'm Draliurm <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
-<img src="https://media.giphy.com/media/ehwuBgKNA2NACoFa7w/giphy.gif" width="300" />
+<img src="https://i.giphy.com/ehwuBgKNA2NACoFa7w.gif" width="100%" />
 
 # About Me :
 
