@@ -20,8 +20,7 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/4fe377b8-c5b2-432d-90e5-eb250d19287e" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/c35ed56a-a8eb-4790-9962-7a95891c942a" />
 
-
-(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZxbHFkaHRoaDFwN2Q5ZjVmeG5wcTl5dWUwa3p6ZDFlcG1rMTVzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehwuBgKNA2NACoFa7w/giphy.gif)
+<img src="https://media.giphy.com/media/ehwuBgKNA2NACoFa7w/giphy.gif" width="70" />
 
 
 
