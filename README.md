@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
+<h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
 <h align="center"> Hello, my name is Draliurm. I am a senior in high school. I enjoy programming and video games, and I have big goals and objectives. </h>
