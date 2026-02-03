@@ -1,6 +1,7 @@
 <h1 align="center"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" /> Hello i'm Draliurm <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
+<img src="https://media.giphy.com/media/ehwuBgKNA2NACoFa7w/giphy.gif" width="300" />
 
 # About Me :
 
@@ -20,7 +21,6 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/4fe377b8-c5b2-432d-90e5-eb250d19287e" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/c35ed56a-a8eb-4790-9962-7a95891c942a" />
 
-<img src="https://media.giphy.com/media/ehwuBgKNA2NACoFa7w/giphy.gif" width="70" />
 
 
 
