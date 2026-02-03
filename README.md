@@ -3,7 +3,7 @@
 
 <h align="center"> Hello, my name is Draliurm. I am a senior in high school. I enjoy programming and video games, and I have big goals and objectives. </h>
 
-<h1 align="center"> hobbies </h1>
+<h1 align="center"> hobbies and Applications I know </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f5b5601e-3991-4980-9ec9-3bbfe526dbbf" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/6f89ee79-c583-441d-a6fa-bd256203c7a3" />
