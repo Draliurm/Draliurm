@@ -19,18 +19,6 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/630570e5-631c-47ae-bf39-21fd268c09d7" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/099e7124-2c23-42f5-b4c4-787e582cc293" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/41af163e-4657-4254-acfe-8fb9b96b9383" />
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/83685dbc-58b2-4b00-9cd4-b57b0f327a05" />
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center"> hobbies and Applications I know </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
