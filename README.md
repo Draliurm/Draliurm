@@ -11,4 +11,4 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/800f78ec-25a7-4153-8eeb-5b594bcbdb13" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/099e7124-2c23-42f5-b4c4-787e582cc293" />
 
-<img width="496" height="280" alt="image" src="https://github.com/user-attachments/assets/83ff057d-f7ba-49b2-a86b-844aa1476388" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
