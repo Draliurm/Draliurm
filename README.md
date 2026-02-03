@@ -3,6 +3,8 @@
 
 ![Image](https://github.com/user-attachments/assets/6a5dbbbf-28bc-4fa5-b0bc-aea15ca12aca)
 
+<img width="70" height="70" alt="image" src="![Image](https://github.com/user-attachments/assets/6a5dbbbf-28bc-4fa5-b0bc-aea15ca12aca)" />
+
 <h1 align="center"> hobbies </h1>
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58b0dc76-dac9-411f-9e3a-1db9b1233e88" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f5b5601e-3991-4980-9ec9-3bbfe526dbbf" />
