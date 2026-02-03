@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Guys! We Are OSSInsight! <img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
+<h1 align="center"> Hello Guys! We Are OSSInsight! <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a695a55f-2ee7-4fa7-9ec3-4c8897e63973" />
 </h1>
 
 
